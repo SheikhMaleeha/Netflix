@@ -2,7 +2,7 @@
 
 This repository explores the release year of shows connecting to each geolocation.
 
-![image]([https://github.com/SheikhMaleeha/COVID-after-New-Normal/blob/main/Visualization%20Snippets/Medications%20taken.png](https://github.com/SheikhMaleeha/Netflix/blob/main/Netflix%20Logo.png))
+![image](https://github.com/SheikhMaleeha/Netflix/blob/main/Netflix%20Logo.png)
 
 
 <!-- <p align="center">
