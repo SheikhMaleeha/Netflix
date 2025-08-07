@@ -1,8 +1,8 @@
-# Currently Binging Netflix?
-
-This repository explores the release year of shows connecting to each geolocation.
-
 ![image](https://github.com/SheikhMaleeha/Netflix/blob/main/Netflix%20Logo.png)
+
+Currently Binging Netflix? This repository explores the release year of shows connecting to each geolocation.
+
+
 
 
 <!-- <p align="center">
